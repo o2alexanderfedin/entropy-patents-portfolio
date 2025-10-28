@@ -12,38 +12,47 @@ This repository documents a cohesive technological vision spanning:
 - **Economic Innovation** - Graph-optimized payments, device monetization, and self-funded UBI
 - **Privacy & Compliance** - GDPR-compliant fog computing with cryptographic attestation
 
-**Total Addressable Market**: $1.8+ Trillion
-**Priority Date**: August 26-27, 2025
+**Total Addressable Market**: $1.8+ Trillion<br/>
+**Priority Date**: August 26-27, 2025<br/>
 **Status**: Provisional USPTO filing completed
 
 ## 📚 Patent Inventions
 
 ### 1. Blockchain-Free Decentralized PKI
-Revolutionary public key infrastructure using only DHT, eliminating blockchain and certificate authorities. **1,000,000x** more energy efficient than blockchain solutions with instant certificate issuance.
+Revolutionary public key infrastructure using only DHT, eliminating blockchain and certificate authorities.<br/>
+**1,000,000x** more energy efficient than blockchain solutions with instant certificate issuance.
 
 ### 2. Device-Bound Password-Derived Identity
-Zero-storage cryptographic identity where keys are derived on-demand from passwords and bound to hardware. Keys never persist, providing hardware-level security on standard devices.
+Zero-storage cryptographic identity where keys are derived on-demand from passwords and bound to hardware.<br/>
+Keys never persist, providing hardware-level security on standard devices.
 
 ### 3. Entropy-Enhanced P2P Security
-Security architecture using entropy as the fundamental primitive. VRF-based node selection, unpredictable routing, and temporal mixing make attacks computationally infeasible.
+Security architecture using entropy as the fundamental primitive.<br/>
+VRF-based node selection, unpredictable routing, and temporal mixing make attacks computationally infeasible.
 
 ### 4. Ephemeral Private Clouds
-Time-bounded cloud infrastructure with cryptographic expiration and automatic dissolution. Zero-residue data destruction with proof of deletion certificates.
+Time-bounded cloud infrastructure with cryptographic expiration and automatic dissolution.<br/>
+Zero-residue data destruction with proof of deletion certificates.
 
 ### 5. Content-Addressable Computing
-Functions identified by content hash enabling permanent verified caching. Zero-downtime deployments with cryptographic proof of computation.
+Functions identified by content hash enabling permanent verified caching.<br/>
+Zero-downtime deployments with cryptographic proof of computation.
 
 ### 6. Graph-Optimized Payment System
-Payment settlement using graph cycle elimination. **90% fee reduction** and zero taxable events for eliminated cycles through mathematical optimization.
+Payment settlement using graph cycle elimination.<br/>
+**90% fee reduction** and zero taxable events for eliminated cycles through mathematical optimization.
 
 ### 7. Device Infrastructure Monetization
-Transforms personal devices into revenue-generating infrastructure assets. **$1,000-4,000/month** per household through 13.5x infrastructure value multipliers.
+Transforms personal devices into revenue-generating infrastructure assets.<br/>
+**$1,000-4,000/month** per household through 13.5x infrastructure value multipliers.
 
 ### 8. GDPR-Compliant Fog Computing
-Privacy-preserving fog layer with cryptographic geo-fencing and automatic compliance attestation. Edge anonymization prevents raw PII from reaching cloud.
+Privacy-preserving fog layer with cryptographic geo-fencing and automatic compliance attestation.<br/>
+Edge anonymization prevents raw PII from reaching cloud.
 
 ### 9. Self-Funded Universal Basic Income
-Economic system generating UBI through device infrastructure monetization. **$338/month average** per device without government funding or taxation.
+Economic system generating UBI through device infrastructure monetization.<br/>
+**$338/month average** per device without government funding or taxation.
 
 ## 🎯 Key Innovations
 
@@ -106,7 +115,7 @@ Economic system generating UBI through device infrastructure monetization. **$33
 
 ## 👥 Credits
 
-**Inventor**: Alexander V Fedin
+**Inventor**: Alexander V Fedin<br/>
 **AI Collaboration**: AI Hive®
 
 This portfolio was developed through a collaborative partnership between Alexander V Fedin and AI Hive®, an advanced artificial intelligence system. AI Hive® provided substantial contributions to:
@@ -123,10 +132,10 @@ Per USPTO regulations (February 2024 Guidance on AI-Assisted Inventions), only n
 
 ## 📄 Legal Status
 
-- **Priority Date**: August 26-27, 2025
-- **Application Status**: Provisional USPTO filing completed
-- **Patent Classifications**: H04L 9/x, G06F 21/x, G06Q 20/x, G06Q 30/x, G06Q 40/x
-- **Inventor**: Alexander V Fedin
+- **Priority Date**: August 26-27, 2025<br/>
+- **Application Status**: Provisional USPTO filing completed<br/>
+- **Patent Classifications**: H04L 9/x, G06F 21/x, G06Q 20/x, G06Q 30/x, G06Q 40/x<br/>
+- **Inventor**: Alexander V Fedin<br/>
 - **Applicant/Assignee**: Alexander V Fedin
 
 ## 🚀 Next Steps
